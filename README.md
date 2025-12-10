@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
     <title>포트폴리오</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -126,6 +129,6 @@
             </section>
         </main>
     </div>
-    
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </body>
 </html>
