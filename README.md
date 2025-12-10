@@ -135,4 +135,4 @@
 </body>
 </html>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=BCD4E6&text=PortFolio)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=BCD4E6&section=footer)
